@@ -318,7 +318,7 @@ this->txtb->ForeColor = System::Drawing::Color::Black;
             txtb->Text = Convert::ToString(ans);  
          }  
  private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {  
-            MessageBox::Show("Created By :nn Muhammed Afsal.vn e-mail : Afsalashyana@gmail.com");  
+            MessageBox::Show("Created By : Aayush kumar e-mail : aayushkumarjsr16@protonmail.com");  
          }  
  private: System::Void button8_Click(System::Object^ sender, System::EventArgs^ e) {  
             a=b=0;  
