@@ -1,9 +1,9 @@
-#if !defined(AFX_STDAFX_H__79BFBC4B_86FB_4A3B_BA07_F4CFFA1197BC__INCLUDED_)
+#if!defined(AFX_STDAFX_H__79BFBC4B_86FB_4A3B_BA07_F4CFFA1197BC__INCLUDED_)
 #define AFX_STDAFX_H__79BFBC4B_86FB_4A3B_BA07_F4CFFA1197BC__INCLUDED_
 
 #if _MSC_VER > 1000
 #pragma once
-#endif 
+#endif
 
 #define STRICT
 #ifndef _WIN32_WINNT
@@ -13,8 +13,8 @@
 
 #include <atlbase.h>
 
-extern CComModule _Module;
-#include <atlcom.h>
+extern CComModule _Module;#include <atlcom.h>
+
 #include "common.h"
 
 //{{AFX_INSERT_LOCATION}}
